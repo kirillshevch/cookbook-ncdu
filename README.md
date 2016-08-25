@@ -4,6 +4,8 @@ Setup ncdu - is a disk usage analyzer with an ncurses interface.
 
 ## Usage
 
+    cookbook 'ncdu', '~> 1.0.0'
+
 Just include `ncdu` in your node's `run_list`:
 
 ```json
