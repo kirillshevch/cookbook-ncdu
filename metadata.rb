@@ -1,5 +1,5 @@
 name             'ncdu'
-maintainer       'kirillweb'
+maintainer       'kirillshevch'
 maintainer_email 'kirills167@gmail.com'
 license          'Apache 2.0'
 description      'Install ncdu'
